@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Indice
 - [Sobre](#-sobre)
@@ -17,3 +18,8 @@ O projeto foi desenvolvido usando as seguintes tecnologias:
 
 --- 
 Desenvolvido por 💗Tamara Aquino .
+=======
+#Teste automatizado com CYPRESS!
+
+##Este é um repositorio para meu aprendizado em teste automatizados usando cypress.
+>>>>>>> 94b7ffbcf0730db7ac0f786599f262d222abf1d9
