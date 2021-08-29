@@ -5,7 +5,7 @@
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 --- 
 ##  📣Sobre
-Este é um repositorio para o meu aprendizado em automatização utilizando o **Cypress**, com o intuito de colocar os conhecimentos adquiridos em pratica.
+Este é um repositorio para o meu aprendizado em automatização utilizando o **Cypress**, com o intuito de colocar os conhecimentos adquiridos no modulo automação de teste WEB com Cypress em pratica.
 
 --- 
 ## 💻Tecnologias utilizadas
