@@ -13,6 +13,8 @@ Este é um repositorio para o meu aprendizado em automatização utilizando o **
 O projeto foi desenvolvido usando as seguintes tecnologias:
 
 - Javascript
+- Node JS
+- Visual Studio
 - Cypress
 
 
